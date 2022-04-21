@@ -1,6 +1,7 @@
 public class HackerRankFindDigits {
 
     public static int findDigits(int n) {
+        
         String s = String.valueOf(n);
         int indexCount = 0;
         // Write your code here
