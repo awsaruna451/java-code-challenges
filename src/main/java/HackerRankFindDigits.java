@@ -1,4 +1,5 @@
 public class HackerRankFindDigits {
+<<<<<<< HEAD
 
     public static int findDigits(int n) {
         
@@ -22,4 +23,6 @@ public class HackerRankFindDigits {
     public static void main(String[] args) {
         System.out.println(findDigits(124));
     }
+=======
+>>>>>>> f430aa0608260e2a3886ce2dd0d4b938c0b46ed1
 }
